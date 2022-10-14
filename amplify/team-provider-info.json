@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awstutorial309f9958": {}
+      },
+      "api": {
+        "awstutorial": {}
+      },
+      "storage": {
+        "s38a503a31": {}
       }
     }
   }

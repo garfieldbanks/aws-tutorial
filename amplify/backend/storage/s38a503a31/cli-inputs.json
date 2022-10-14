@@ -1,0 +1,14 @@
+{
+  "resourceName": "s38a503a31",
+  "policyUUID": "8a503a31",
+  "bucketName": "awstutorial1756d2ff259b4cab9822172a760a0e61",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
